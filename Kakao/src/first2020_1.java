@@ -1,5 +1,5 @@
 
-public class first2020 {
+public class first2020_1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
