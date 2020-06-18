@@ -71,7 +71,6 @@ public class first2020_2 {
 			ArrayList<Character> cch = new ArrayList<Character>();
 			cch.addAll(ch);
 			
-			System.out.println("Ω√¿€");
 			
 			for (int i = 0; i < charr.length; i++) {
 					for (int j = 0; j < cch.size(); j++) {
